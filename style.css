@@ -4,3 +4,35 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+/* Header section start hear*/
+.header-container {
+    background-color: #212529;
+  }
+  
+  .header-container nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    height: 70px;
+    width: 1000px;
+    align-items: center;
+  }
+  .nav-menu a {
+    color: white;
+    padding: 0 20px;
+    text-decoration: none;
+    font-size: 20px;
+    align-items: center;
+  }
+  
+  nav i {
+    color: #dc3545;
+  }
+  
+  nav h5 {
+    font-size: 25px;
+  
+    color: white;
+  }
+  
+  /* Header section start hear*/
