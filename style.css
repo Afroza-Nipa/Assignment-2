@@ -36,3 +36,42 @@ body {
   }
   
   /* Header section start hear*/
+
+ /* banner sectionstart hear*/
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .banner-text {
+    width: 50%;
+    margin: auto;
+    color: #6c757d;
+  }
+  
+  .container h1 {
+    font-size: 50px;
+    color: #333333;
+  }
+  .banner-image {
+    height: auto;
+    width: 50%;
+  
+    margin-top: 50px;
+  }
+  .banner-image img {
+    width: 100%;
+  }
+  
+  button {
+    background-color: white;
+    height: 50px;
+    width: 180px;
+  
+    border: 2px solid red;
+    border-radius: 10px;
+    color: black;
+    font-size: 25px;
+  }
+  
